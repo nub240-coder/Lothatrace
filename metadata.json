@@ -1,0 +1,6 @@
+{
+  "name": "LothaTrace",
+  "description": "Ứng dụng di động truy xuất nguồn gốc và chuỗi lạnh sữa tươi – Dự án sinh viên minh họa cho Lothamilk",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
